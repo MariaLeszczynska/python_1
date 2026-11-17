@@ -1,1 +1,1 @@
-# python_1
+Programowanie w Pythonie - część I
